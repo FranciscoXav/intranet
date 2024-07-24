@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "nome": "Francisco Xavier Oliveira Araújo",
+            "email": "prof.francisco.araujo@esct.pt",
+            "password": "",
+            "perfil": "professor"
+        },
+        {
+            "id": "2",
+            "nome": "Student01",
+            "email": "student1.esct@gmail.com",
+            "password": "Aluno01%",
+            "perfil": "aluno"
+        },
+        {
+            "id": "3",
+            "nome": "Student02",
+            "email": "student2.esct@gmail.com",
+            "password": "Aluno02%",
+            "perfil": "aluno"
+        }
+    ]
+}

@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+
+.centered-alert {
+  margin:  auto; /* Centraliza o alerta horizontalmente */
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

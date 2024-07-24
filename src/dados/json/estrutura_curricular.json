@@ -1,0 +1,147 @@
+[
+    {
+        "id": "1",
+        "curso": "Curso Profissional de Técnico de Eletrónica, Automação e Computadores",
+        "disciplinas": [
+            {
+                "id": "1",
+                "disciplina": "Eletricidade e Eletrónica",
+                "modulos": [
+                    {
+                        "id": "1",
+                        "modulo": "UFCD6007 - Corrente contínua",
+                        "ano": "10",
+                        "conteudos": [
+                            {"id": "1", "conteudo": "As grandezas mais importantes do circuito elétrico"},
+                            {"id": "2", "conteudo": "A lei de Ohm"},
+                            {"id": "3", "conteudo": "A lei de Joule"},
+                            {"id": "4", "conteudo": "Os aparelhos e técnicas de medida"},
+                            {"id": "5", "conteudo": "Associação de resistências"},
+                            {"id": "6", "conteudo": "Energia e potência elétrica. Rendimento"},
+                            {"id": "7", "conteudo": "Geradores e receptores"}
+                        ]
+                    },
+                    {
+                        "id": "2",
+                        "modulo": "UFCD6008 - Análise de circuitos em Corrente Contínua",
+                        "ano": "10",
+                        "conteudos": [
+                            {"id": "1", "conteudo": "Lei de Ohm generalizada"},
+                            {"id": "2", "conteudo": "Leis de Kirchoff para análise de circuitos com resistência"},
+                            {"id": "3", "conteudo": "Métodos de simplificação de circuitos"},
+                            {"id": "4", "conteudo": "Divisor de tensão e divisor de corrente"},
+                            {"id": "5", "conteudo": "Teorema de Thevenin e teorema da sobreposição"},
+                            {"id": "6", "conteudo": "O condensador em corrente contínua (c.c.)"}
+                        ]
+                    },
+                    {
+                        "id": "3",
+                        "modulo": "UFCD6009 - Magnetismo e Eletromagnetismo",
+                        "ano": "10",
+                        "conteudos": [
+                            {"id": "1", "conteudo": "O campo magnético"},
+                            {"id": "2", "conteudo": "Campos magnéticos produzidos pela corrente elétrica"},
+                            {"id": "3", "conteudo": "Forças eletromagnéticas"},
+                            {"id": "4", "conteudo": "Magnetização dos materiais ferrosos"},
+                            {"id": "5", "conteudo": "Circuito magnético"},
+                            {"id": "6", "conteudo": "Indução eletromagnética"},
+                            {"id": "7", "conteudo": "Associação de bobinas"},
+                            {"id": "8", "conteudo": "Energia na bobina"}
+                        ]
+                    },
+                    {
+                        "id": "4",
+                        "modulo": "UFCD6010 - Corrente Alternada",
+                        "ano": "10",
+                        "conteudos": [
+                            {"id": "1", "conteudo": "Corrente alternada sinusoidal"},
+                            {"id": "2", "conteudo": "Período, frequência e fase"},
+                            {"id": "3", "conteudo": "Comportamento do condensador e da bobina em corrente alternada"},
+                            {"id": "4", "conteudo": "Lei de Ohm para corrente alternada"},
+                            {"id": "5", "conteudo": "Diagramas vetoriais"},
+                            {"id": "6", "conteudo": "Circuito RLC série e paralelo; impedância em circuitos RLC série e paralelo"},
+                            {"id": "7", "conteudo": "Potência em a.c."},
+                            {"id": "8", "conteudo": "Compensação do fator de potência"},
+                            {"id": "9", "conteudo": "Cálculo do somatório das potências em corrente alternada"},
+                            {"id": "10", "conteudo": "Introdução à corrente alternada trifásica"},
+                            {"id": "11", "conteudo": "Tensões simples e compostas"}
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "disciplina": "Tecnologias Aplicadas",
+                "modulos": []
+            },
+            {
+                "id": "3",
+                "disciplina": "Sistemas Digitais",
+                "modulos": []
+            },
+            {
+                "id": "4",
+                "disciplina": "Automação e Computadores",
+                "modulos": []
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "curso": "Curso Profissional de Técnico de Multimédia",
+        "disciplinas": [
+            {
+                "id": "1",
+                "disciplina": "Sistemas de Informação",
+                "modulos": [
+                    {
+                        "id": "1",
+                        "modulo": "UFCD9949 - Construção de Páginas Web",
+                        "ano": "10",
+                        "conteudos": [
+                            {"id": "1", "conteudo": "Descrição de documentos: HyperText Markup Language/Linguagem de Marcação de Hipertexto – HTML"},
+                            {"id": "2", "conteudo": "Descrição de documentos: Extensible Markup Language/Linguagem Extensível de Marcação Genérica – XML"},
+                            {"id": "3", "conteudo": "Construção base de páginas web: Estrutura de páginas web e organização de materiais"},
+                            {"id": "4", "conteudo": "Construção base de páginas web: Etiquetas comuns, semântica, atributos e valores"},
+                            {"id": "5", "conteudo": "Construção base de páginas web: Eventos e scripts aplicados a páginas web"},
+                            {"id": "6", "conteudo": "Construção base de páginas web: Folhas de estilos - Cascading Style Sheets / Folha de Estilos em Cascata (CSS)"},
+                            {"id": "7", "conteudo": "Construção base de páginas web: Seletores, propriedades e valores"},
+                            {"id": "8", "conteudo": "Princípios e regras de webdesign: Ferramentas de produtividade e recursos na Net"},
+                            {"id": "9", "conteudo": "Princípios e regras de webdesign: Publicação de sítios e gestão de conteúdos"}
+                        ]
+                    },
+                    {
+                        "id": "2",
+                        "modulo": "UFCD9950 - Conceitos Fundamentais de Programação",
+                        "ano": "10",
+                        "conteudos": [
+                            {"id": "1", "conteudo": "Linguagens estruturadas, sintaxe e semântica"},
+                            {"id": "2", "conteudo": "Estruturas lógicas e controlo"},
+                            {"id": "3", "conteudo": "Tipos de dados"},
+                            {"id": "4", "conteudo": "Entrada e saída de dados"},
+                            {"id": "5", "conteudo": "Construção de algoritmos: Noções de lógica (interpretação da linguagem comum, transposição para algoritmo em pseudocódigo)"},
+                            {"id": "6", "conteudo": "Construção de algoritmos: Identificação de tipos básicos de algoritmos"},
+                            {"id": "7", "conteudo": "Construção de algoritmos: Seleção de algoritmo por situação"},
+                            {"id": "8", "conteudo": "Construção de algoritmos: Programação por objetivos"},
+                            {"id": "9", "conteudo": "Construção de algoritmos: Noção de gerações de linguagens de programação"},
+                            {"id": "10", "conteudo": "Construção de algoritmos: Noção, conceito e uso de objetos em programação"},
+                            {"id": "11", "conteudo": "Construção de algoritmos: Fluxogramas"},
+                            {"id": "12", "conteudo": "Construção de algoritmos: Noção de fluxograma"}
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "curso": "Curso Profissional de Gestão de Programação de Computadores",
+        "disciplinas": [
+            {
+                "id": "1",
+                "disciplina": "Sistemas Operativos",
+                "modulos": []
+            }
+        ]
+    }
+]

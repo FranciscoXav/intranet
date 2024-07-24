@@ -1,0 +1,19 @@
+{
+    "alunos_turmas":[
+    {
+        "id": "1",
+        "id_user": "1",
+        "turmaId": "1"
+    },
+    {
+        "id": "2",
+        "id_user": "2",
+        "turmaId": "2"
+    },
+    {
+        "id": "3",
+        "id_user": "3",
+        "turmaId": "1"
+    }
+]
+}

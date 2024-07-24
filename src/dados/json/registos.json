@@ -1,0 +1,30 @@
+{
+  "registos": [
+    {
+      "id": "82f7",
+      "UserId": "2",
+      "ModuloId": "1",
+      "DisciplinaId": "1",
+      "cursoId": "2",
+      "ConteudoId": "1",
+      "Data": "23/07/2024",
+      "NivelConsecucao": "4",
+      "Dificuldades": "",
+      "Progresso": "",
+      "Comentarios": ""
+    },
+    {
+      "id": "ff53",
+      "UserId": "3",
+      "ModuloId": "1",
+      "DisciplinaId": "1",
+      "cursoId": "1",
+      "ConteudoId": "1",
+      "Data": "23/07/2024",
+      "NivelConsecucao": "3",
+      "Dificuldades": "",
+      "Progresso": "",
+      "Comentarios": ""
+    }
+  ]
+}
